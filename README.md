@@ -1,9 +1,9 @@
 # SSN. Lab. 1. Wprowadzanie do python i notatnika jupyter
 
-Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia. 
+Zapoznaj się z zawartością notatnika Jupyter umieszczonego w repozytorium  i wykonaj zawarte w nim ćwiczenia.
 
-Notatnik: [01_Wprowadzenie.ipynb](https://github.com/IS-UMK/ssn_23_zad_01/blob/master/01_Wprowadzenie.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_23_zad_01/blob/master/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_23_zad_01/master?filepath=01_Wprowadzenie.ipynb) 
+Notatnik: [01_Wprowadzenie.ipynb](https://github.com/IS-UMK/ssn_23_lab_01/blob/master/01_Wprowadzenie.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IS-UMK/ssn_23_lab_01/blob/master/01_Wprowadzenie.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IS-UMK/ssn_23_lab_01/master?filepath=01_Wprowadzenie.ipynb) 
 
 ---
 
@@ -18,7 +18,7 @@ Korzystając z modelu neuronu McCulloch-Pittsa zaimplementuj funkcje realizując
 
 Przetestuj działanie bramek prezentując wyniki dla wszystkich możliwych wartości wejściowych. 
 
-Rozwiązanie w postaci notanika Jupyter (``.ipynb``) lub skrypt w jezyku Python (``.py``) przumieść w Moodle lub prześlij do repozytorium GitHub. 
+Rozwiązanie w postaci notatnika Jupyter (``.ipynb``) lub skrypt w języku Python (``.py``) umieść w Moodle lub prześlij do repozytorium GitHub.
 
 ---
 ## Materiały:
@@ -26,8 +26,3 @@ Rozwiązanie w postaci notanika Jupyter (``.ipynb``) lub skrypt w jezyku Python 
 * [The McCulloch-Pitts Artificial Neuron Model](https://pabloinsente.github.io/the-mcculloch-pitts-artificial-neuron-model) by Pablo Caceres
 * [Bramka NAND](https://en.wikipedia.org/wiki/NAND_logic) Wikipedia
 * [Bramka XOR](https://en.wikipedia.org/wiki/XOR_gate) Wikipedia
-
-
-
-
-
